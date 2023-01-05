@@ -14,3 +14,6 @@ public class Murga
 {
     public string DishType{get;set;}
 }
+
+public class Tent{}
+public class Mountain{}
