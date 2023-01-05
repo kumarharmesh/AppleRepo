@@ -7,3 +7,6 @@ public class LeapClass
     }
     public string Name {get;set;}
 }
+public class P{
+    public int Mode{get;set;}
+}

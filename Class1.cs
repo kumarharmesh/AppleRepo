@@ -11,4 +11,10 @@ namespace GitTesting
         public string name { get; set; }
         public int age { get; set; }
     }
+    public class M
+    {
+        public string city{get;set;}
+        public string state{get;set;}
+    }
+    
 }
