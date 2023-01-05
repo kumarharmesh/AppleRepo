@@ -10,6 +10,10 @@ namespace GitTesting
     {
         public string name { get; set; }
         public int age { get; set; }
+        public void Display()
+        {
+            Console.WriteLine($"{name}  {age}");
+        }
     }
     public class M
     {
