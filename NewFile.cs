@@ -10,3 +10,5 @@ public class Subscriber
         Console.WriteLine(m);
     }
 }
+public class Book{}
+public class Pen{}
