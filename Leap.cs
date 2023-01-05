@@ -5,4 +5,5 @@ public class LeapClass
     {
         return x>y;
     }
+    public string Name {get;set;}
 }
