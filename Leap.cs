@@ -10,7 +10,7 @@ public class LeapClass
 public class P{
     public int Mode{get;set;}
 }
-public class Animal
+public class Murga
 {
-    public int lifespan{get;set;}
+    public string DishType{get;set;}
 }
