@@ -11,12 +11,6 @@ public class P{
     public int Mode{get;set;}
 }
 public class Murga
-<<<<<<< Updated upstream
-public class Murga
 {
     public string DishType{get;set;}
-=======
-{
-    public string DishType{ge}
->>>>>>> Stashed changes
 }
