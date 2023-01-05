@@ -25,5 +25,10 @@ public class LeapClass2
     }
 }
 
+public interface IListing
+{
+    List<string> ListOfTasks{get;set;}
+}
+
 
 
