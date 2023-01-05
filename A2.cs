@@ -34,4 +34,4 @@ public class Creature
 {
     public int life{get;set;}
 }
-
+public class Market{}
