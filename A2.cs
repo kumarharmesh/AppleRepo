@@ -11,6 +11,10 @@ public class LeapClass2
     {
         return x>y;
     }
+     public bool Compare(int x ,int y)
+    {
+        return x!=y;
+    }
     public bool Compare(int x ,int y)
     {
         return x==y;
@@ -20,3 +24,6 @@ public class LeapClass2
         return x<=y;
     }
 }
+
+
+
