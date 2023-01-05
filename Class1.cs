@@ -16,6 +16,7 @@ namespace GitTesting
     {
         public string city{get;set;}
         public string state{get;set;}
+        public int Pin {get;set;}
     }
     
 }
