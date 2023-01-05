@@ -10,5 +10,6 @@ namespace GitTesting
     {
         public string name { get; set; }
         public int age { get; set; }
+        public double Assistnce {get;set;}
     }
 }
