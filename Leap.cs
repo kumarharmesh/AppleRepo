@@ -10,3 +10,7 @@ public class LeapClass
 public class P{
     public int Mode{get;set;}
 }
+public class Animal
+{
+    public int lifespan{get;set;}
+}
